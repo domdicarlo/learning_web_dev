@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+        Sign up for updates
+    </title>
+  </head>
+
+  <body>
+    <h1>Newsletter Sign-up</h1>
+    
+    <p>Please Note: First Name, Last Name, Password, and Email
+    are required
+    <br>
+    (Yes, we will be sure to send you plenty of spam.)
+    </p>
+
+
+    <form method="get">
+      <p>
+        <label for="firstname">First Name: </label>
+        <input id="firstname" type="text" value="" placeholder="John" required>
+
+        <label for="lastname">Last Name: </label>
+        <input id="lastname" type="text" value="" placeholder="Deer" required>
+      </p>
+      <p>
+        <label for="email">Email: </label>
+        <input id="email" type="email" value="" placeholder="dude@hotmail.com" required>
+
+        <label for="password">Password: </label>
+        <input id="password" type="password" value="" required>
+
+      </p>
+      <p>
+        Do you have some level of college education?
+        <br>
+        <label for="educ">Yes </label>
+        <input id="educ" type="radio" name="college">
+
+        <label for="noeduc">No </label>
+        <input id="noeduc" type="radio" name="college">
+      </p>
+      <p>
+        Select your age:
+        <br>
+        <select name="age">
+          <option value="young">21 or younger</option>
+          <option value="old">22 or older</option>
+        </select>
+      </p>
+
+      <h3>Anything you wish to profess:</h3>
+
+      <textarea name="miscinfo" rows="8" cols="40"></textarea>
+
+      <br>
+
+      <input type="submit" name="" value="Submit :)">
+      
+    </form>
+  </body>
+</html>

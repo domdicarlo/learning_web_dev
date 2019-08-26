@@ -1,1 +1,1 @@
-Another very basic webpage, illustrating basic proficiency in forms . I styled it based on signing up for a newsletter of sorts from me.
+Another very basic webpage, illustrating basic proficiency in forms. I styled it based on signing up for a newsletter of sorts from me.

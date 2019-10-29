@@ -1,6 +1,8 @@
 ## Learning how to do web development.
 
-I am mostly following a udemy tutorial on here, wanting to do full stack with django, html, css, and js. 
+<s>I am mostly following a udemy tutorial on here, wanting to do full stack with django, html, css, and js.</s>
+
+I am playing around with different tutorials and guides and documenting my progress here.
 
 I have dabbled in JS at this point. I have played with python, but don't really have it as a language I am comfortable with at this point. So, I thought this would be an ideal way to get started.
 
